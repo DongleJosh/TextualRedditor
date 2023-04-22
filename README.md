@@ -1,2 +1,1 @@
-# TextualRedditor
- homeworkweek19
+# Text Editor Starter Code
